@@ -34,3 +34,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+
+
+### 📑 Portfolio :
+
+| Проект   | Наименование проекта              | Краткое описание                  | Инструменты                                                 |
+|----------|-----------------------------------|-----------------------------------|-------------------------------------------------------------|
+| Проект 1 | [Анализ базы вакансий](https://github.com/rumyantsevk265/job_analysis_project) | Исследование объявлений вакансий для Data Analyst и Data Science с целью определения ключевых навыков, которые востребованы на рынке труда. | Pandas, Matplotlib, Seaborn |
